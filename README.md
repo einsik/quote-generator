@@ -1,2 +1,1 @@
-# template-test
 # quote-generator
